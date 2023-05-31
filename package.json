@@ -1,0 +1,15 @@
+{
+  "name": "test-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Hydrock/test-ts.git",
+  "author": "Вечканов Алексей <avechkanov@alfabank.ru>",
+  "license": "MIT",
+  "scripts": {
+    "build": "arui-scripts build"
+  },
+  "devDependencies": {
+    "arui-scripts": "^14.7.0",
+    "typescript": "^5.0.4"
+  }
+}
